@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=430&lines=Learning.+Build.+Code." alt="Typing SVG" />
 </h3>
 
-Soy estudiante de Desarrollo de Software en la Universidad Católica Luis Amigó. Me apasiona crear proyectos web desde cero, resolver problemas con código y seguir aprendiendo cada día para crecer como profesional en la industria.
+Soy futuro Desarrollo de Software de la universidad catolica luis amigo. Me gusta aprender cosas nuevas cada día para seguir creciendo como profesional y abrirme camino en la industria.
 
-Disfruto trabajar tanto en la parte visual como en la lógica detrás de las aplicaciones, enfocándome en tecnologías como **JavaScript, Node.js (Express), MySQL, HTML/CSS y Git/GitHub**. Actualmente sigo construyendo y mejorando mis proyectos en busca de nuevas oportunidades y retos.
+Disfruto trabajar tanto en la parte visual como en la lógica detrás de las aplicaciones, practicando y desarrollando proyectos con JavaScript, Node.js (Express), MySQL, HTML/CSS y Git/GitHub, entre otros más. Actualmente estoy fortaleciendo mis bases y mejorando mis proyectos en busca de nuevas oportunidades y retos.
 
 ---
 
