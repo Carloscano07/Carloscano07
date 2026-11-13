@@ -35,9 +35,4 @@ Disfruto trabajar tanto en la parte visual como en la lógica detrás de las apl
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carloscano07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscano07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
